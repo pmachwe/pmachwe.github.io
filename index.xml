@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parikshit&#39;s Corner</title>
+    <link>https://pmachwe.github.io/</link>
+    <description>Recent content on Parikshit&#39;s Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Oct 2022 23:11:02 +0530</lastBuildDate><atom:link href="https://pmachwe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://pmachwe.github.io/posts/second/</link>
+      <pubDate>Fri, 28 Oct 2022 23:11:02 +0530</pubDate>
+      
+      <guid>https://pmachwe.github.io/posts/second/</guid>
+      <description>Hugo is simple It is quite simple to create posts in Hugo and deploy on Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://pmachwe.github.io/posts/hello/</link>
+      <pubDate>Fri, 28 Oct 2022 23:01:14 +0530</pubDate>
+      
+      <guid>https://pmachwe.github.io/posts/hello/</guid>
+      <description>Hello World This is the first Hugo post!!
+Lets test some code.
+main () { printf(&amp;#34;Hello World\n&amp;#34;); } Some link
+Subheading item1 item2 </description>
+    </item>
+    
+  </channel>
+</rss>

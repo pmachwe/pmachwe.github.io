@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Parikshit&#39;s Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 23:11:02 +0530</lastBuildDate><atom:link href="https://pmachwe.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 23:16:21 +0530</lastBuildDate><atom:link href="https://pmachwe.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Post</title>
+      <link>https://pmachwe.github.io/posts/hugo_post/</link>
+      <pubDate>Fri, 28 Oct 2022 23:16:21 +0530</pubDate>
+      
+      <guid>https://pmachwe.github.io/posts/hugo_post/</guid>
+      <description>The current setup is created following the instructions in this video.
+A quick summmary of the steps required to create a new post for this blog.
+Create a new post using hugo new posts/&amp;lt;post_name&amp;gt;.md and update it. Run hugo server to check the contents locally. Run hugo -t hugo-paper to generate the static page in public directory. Go to public directory and push the changes. </description>
+    </item>
+    
     <item>
       <title>Second</title>
       <link>https://pmachwe.github.io/posts/second/</link>
